@@ -321,7 +321,7 @@
 
 .services .services-item {
     box-shadow: 0 0 60px rgba(0, 0, 0, .2);
-    width: 100%;
+    width: auto;
     height: 100%;
     border-radius: 10px;
     padding: 10px 0;
@@ -636,11 +636,11 @@
 }
 
 .contact-map {
-    background: #26d48c;
+    background: #F1F1F1;
 }
 
 .contact-form {
-    background: #26d48c;
+    background: #F1F1F1;
 }
 
 /*** Contact End ***/
@@ -666,3 +666,28 @@
 }
 
 /*** Footer End ***/
+
+.subtext1{
+    font-size: 18px;
+    font-weight: bold;
+}
+.aboutus{
+    display: flex;
+    background-color: #F1F1F1;
+    margin-bottom: 10%;
+}
+.subtext2{
+    font-size: 18px;
+    color: black;
+}
+.subtext2 a{
+    text-decoration: none;
+    color: #008080;
+}
+.container {
+    max-width: 100%;
+    height: auto;
+}
+.privacypage{
+    padding: 5%;
+}
