@@ -674,6 +674,7 @@
 .aboutus{
     display: flex;
     background-color: #F1F1F1;
+    padding: 5%;
     margin-bottom: 10%;
 }
 .subtext2{
